@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85 72" width="85" height="72">
+    <style>tspan { white-space:pre }.shp0 { opacity: 0.502;fill: none;stroke:
+        #ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width: 3 }
+    </style>
+    <path id="Arrow" class="shp0"
+          d="M38.11,28.75l-3.52,11.58l13.66,-0.41M43.66,69.99c23.16,-0.08 38.71,-15.9 38.35,-33.32c-0.35,-16.88 -15.46,-32.39 -36.98,-34.45c-21.61,-2.07 -41.68,11.3 -42.96,30.61c-1.33,20.07 18.07,37.25 41.6,37.17z"/>
+</svg>
